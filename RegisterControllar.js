@@ -15,7 +15,7 @@ Ext.define('LogIn.view.main.RegisterController', {
 
         // Add the main view to the viewport
         Ext.create({
-            xtype: 'user',
+            xtype: 'login',
            
             renderTo: Ext.getBody(),
      
