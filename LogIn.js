@@ -1,6 +1,6 @@
-Ext.define('LogIn.view.main.User', {
+Ext.define('LogIn.view.main.LogIn', {
     extend: 'Ext.Container',
-    xtype: 'user',
+    xtype: 'login',
     //controller: 'create-account',
   
     requires: [
